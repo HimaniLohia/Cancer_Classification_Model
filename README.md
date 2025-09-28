@@ -51,6 +51,7 @@ Logistic Regression outputs a probability score, which is converted into one of 
 Clone the repository and install the required libraries:
 
 ```bash
-git clone (https://github.com/HimaniLohia/Cancer_Classification_Model/blob/main/README.md)
+git clone https://github.com/yourusername/breast-cancer-classification.git
 cd breast-cancer-classification
 pip install -r requirements.txt
+
