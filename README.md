@@ -43,5 +43,14 @@ These features are used by the model to determine whether a tumor is malignant o
 - **Type:** Supervised Learning (Binary Classification)  
 - **Purpose:** Predict tumor type based on input features  
 
-Lo
+Logistic Regression outputs a probability score, which is converted into one of the two classes: **Malignant** or **Benign**.
 
+---
+
+## Installation 💻
+Clone the repository and install the required libraries:
+
+```bash
+git clone https://github.com/yourusername/breast-cancer-classification.git
+cd breast-cancer-classification
+pip install -r requirements.txt
